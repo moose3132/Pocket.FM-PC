@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "1",
+      "title": "AXR Manila",
+      "subtitle": "Manila, Philippines",
+      "stream": "https://28163.live.streamtheworld.com/AXR_MANILAAAC.aac",
+      "image": "https://static.mytuner.mobi/media/tvos_radios/666/axr-manila.e214e76c.png"
+    },
+    {
+      "_id": "2",
+      "title": "Station 2",
+      "subtitle": "International Radio",
+      "stream": "https://us1.amfmph.com/ssl/y101cebu?mp=/stream",
+      "image": "https://example.com/station2-logo.png"
+    },
+    {
+      "_id": "3",
+      "title": "Station 3",
+      "subtitle": "Classic Hits",
+      "stream": "https://example.com/stream3.mp3",
+      "image": "https://example.com/station3-logo.png"
+    }
+  ]
+  

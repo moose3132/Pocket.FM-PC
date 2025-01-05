@@ -148,12 +148,5 @@ export default {
 </script>
 
 <style scoped>
-.player-container {
-  width: 100%;
-margin-bottom: -20px;
-  margin-top: -20px;
-}
-.station-name{
-  font-size: 14px;
-}
+
 </style>

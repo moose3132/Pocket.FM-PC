@@ -14,7 +14,7 @@
       {
         "title": "PocketFM",
         "width": 350,
-        "height": 600,
+        "height": 500,
         "resizable": false,
         "fullscreen": false
       }
@@ -27,11 +27,10 @@
     "active": true,
     "targets": "all",
     "icon": [
-      "icons/32x32.png",
-      "icons/128x128.png",
-      "icons/128x128@2x.png",
-      "icons/icon.icns",
-      "icons/icon.ico"
+      "icons/PocketFM.png",
+      "icons/PocketFM.png",
+      "icons/PocketFM.icns",
+      "icons/pocketFM.ico"
     ]
   }
 }
